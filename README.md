@@ -2,6 +2,7 @@
 
 #### 介绍
 Tex & LaTeX语法在线编辑
+访问页面[https://mzxl1987.gitee.io/tex/](https://mzxl1987.gitee.io/tex/)
 
 #### 软件架构
 软件架构说明
