@@ -1,24 +1,19 @@
 # TeX
 
 #### 介绍
-Tex & LaTeX语法在线编辑
-访问页面[https://mzxl1987.gitee.io/tex/](https://mzxl1987.gitee.io/tex/)
+Tex & LaTeX语法在线编辑</br>
 
 #### 软件架构
-软件架构说明
+1. 使用 Mathjax 3 引擎进行在线渲染
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+暂无安装
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  访问页面  [https://mzxl1987.gitee.io/tex/](https://mzxl1987.gitee.io/tex/)
 
 #### 参与贡献
 
